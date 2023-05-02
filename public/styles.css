@@ -1,0 +1,30 @@
+body {
+    background-color: #34495e;
+    color: #ecf0f1;
+    padding: 30px 60px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  nav ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  nav li {
+    list-style: none;
+  }
+  
+  nav li a {
+    color: #ecf0f1;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px 8px;
+  }
+  
+  nav li a:hover {
+    color: #f1c40f;
+    text-decoration: none;
+  }
+  
